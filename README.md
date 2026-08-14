@@ -1,7 +1,7 @@
 # Programming
 프로그래머가 꿈인 중학생입니다
 ___
-[Baekjoon Online Judge](https://www.acmicpc.net/),[Programmers](https://programmers.co.kr/),[JUNGOL](https://jungol.co.kr/),[CodeUp](https://codeup.kr/index.php)의 문제를 풀고 이곳에 적습니다.
+[Baekjoon Online Judge](https://www.acmicpc.net/), [Programmers](https://programmers.co.kr/), [JUNGOL](https://jungol.co.kr/), [CodeUp](https://codeup.kr/index.php)의 문제를 풀고 이곳에 적습니다.
 ___
 Profile Pages
 |BOJ|Programmers|Jungol|CodeUp|
