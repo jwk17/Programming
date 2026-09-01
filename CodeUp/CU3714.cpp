@@ -9,7 +9,7 @@ int recur(vector<int> &v,int idx){
     int r=(recur(v,idx-1)+recur(v,idx-2)*4+recur(v,idx-3)*2)%100007;
     v[idx]=r;
     return r;
-}
+} 
 int main() {
     int n;
     cin>>n;
