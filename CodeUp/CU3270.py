@@ -14,7 +14,7 @@ def union(a,b):
             parent[root_a]=root_b
 for _ in range(m):
     a,b=map(int,input().split())
-    union(a,b)
+    union(a,b) 
 for i in range(1,n+1):
     print(find(i),end=" ")
 //union-find를 구현하면 된다.
